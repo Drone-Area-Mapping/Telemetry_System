@@ -1,0 +1,8 @@
+root = true
+
+[src/**]
+end_of_line = lf
+insert_final_newline = true
+
+[src/**{.cpp, .h, .py}]
+charset = utf-8
